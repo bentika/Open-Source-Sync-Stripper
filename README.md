@@ -1,7 +1,7 @@
 # The Open Source Sync Stripper
 A project to strip sync from composite video signals.
 
-So this project is a PCB, that takes a Scart connector,runs the composite video signal through an LM1881 and outputs C-Sync. It then breaks out the RGB and C-Sync signals to an SMA adapter, and audio to either a headphone jack or simple pads to solder to.
+So this project is a PCB, that takes a Scart connector,runs the composite video signal through an LM1881 and outputs C-Sync. It then breaks out the RGB and C-Sync signals to an SMA conector, and audio to either a headphone jack or simple pads to solder to.
 
 From the SMA connectors, you can get SMA to BNC cables, and use this for the inputs for an Extron Crosspoint, or any 15khz monitor with BNC RGBS inputs.
 
