@@ -1,4 +1,4 @@
-# SimpleSyncStripper
+# The Open Source Sync Stripper
 A project to strip sync from composite video signals.
 
 So this project is a PCB, that takes a Scart connector,runs the composite video signal through an LM1881 and outputs C-Sync. It then breaks out the RGB and C-Sync signals to an SMA adapter, and audio to either a headphone jack or simple pads to solder to.
