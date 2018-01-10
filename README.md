@@ -16,3 +16,5 @@ Situation 1: C-Sync mod. Some people do this if they never want composite again,
 Situation 2: If you don't have an extron, and will only be using this as a passthrough device, hooked up directly to your B/PVM.
 
 Just bridge pads 1 and 2 on the SOIC8 pads, and short out the pads for C1. This will just passthrough whatever is coming down the composite pin, and output it to the SMA connector.
+
+Otherwise, as of 1/9/2018 I have added a passthrough board entitled "ScartBNCnostrip". This is just a simple passthrough, where pin 20 is tied directly to the "S" sma connector. THe LM1881 and caps/resistors have also been removed in this version.
