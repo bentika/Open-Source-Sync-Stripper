@@ -18,3 +18,11 @@ Situation 2: If you don't have an extron, and will only be using this as a passt
 Just bridge pads 1 and 2 on the SOIC8 pads, and short out the pads for C1. This will just passthrough whatever is coming down the composite pin, and output it to the SMA connector.
 
 Otherwise, as of 1/9/2018 I have added a passthrough board entitled "ScartBNCnostrip". This is just a simple passthrough, where pin 20 is tied directly to the "S" sma connector. THe LM1881 and caps/resistors have also been removed in this version.
+
+
+ALSO! If you're looking to stack them, the Jackpost I used is:
+
+https://www.digikey.com/products/en/hardware-fasteners-accessories/board-spacers-standoffs/582?k=8405k
+
+Digikey PN 8405K
+
