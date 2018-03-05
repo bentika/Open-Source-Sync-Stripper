@@ -24,5 +24,4 @@ ALSO! If you're looking to stack them, the Jackpost I used is:
 
 https://www.digikey.com/products/en/hardware-fasteners-accessories/board-spacers-standoffs/582?k=8405k
 
-Digikey PN 8405K
-
+Digikey PN 36-8405-ND
